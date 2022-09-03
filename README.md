@@ -14,3 +14,20 @@ It is an all in one executor that has a lot of built in scripts and functionalit
 **A completely free product to lighten up the mood of the masses.**
 
 
+
+### Terms of Service. 
+
+By accessing this content you are agreeing to the terms of service, if you do not follow these terms we will have to remove you from the site and community.
+
+Any violation of Federal law is prohibited on this site, if found doing so you may be reported to the authorities.
+
+You can not harass or witchhunt anybody in the community including but not limited to; The development team, the community staff, and fellow community members.
+
+You can not promote any form of extreme violence or act. Doing so will be immediate removal from all of our services
+
+You can not reverse engineer our product as it is protected under copyright law.
+
+You shall follow these terms and if you do not we will remove you from our services and blacklist you from our products.
+
+You can not spread false information about our project, doing so will result in a lawsuit for slander.
+
