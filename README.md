@@ -1,7 +1,7 @@
 # The Database Executer
-[Our Goal](https://github.com/czctus/td/edit/main/README.md#our-goal)
+[Our Goal](https://github.com/czctus/td/main/README.md#our-goal)
 
-[History](https://github.com/czctus/td/edit/main/README.md#history)
+[History](https://github.com/czctus/td/main/README.md#history)
 ### Our Goal
 **We find that games such as Roblox get boring after a long time, we came up with a solution. Introducing The Database
 It is an all in one executor that has a lot of built in scripts and functionality. It directly rivals our competitors and completely outperforms them.**
