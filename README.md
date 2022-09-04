@@ -13,7 +13,11 @@ It is an all in one executor that has a lot of built in scripts and functionalit
 **One day I decided, I should make a change, I want to make a product to make people happy.**
 **A completely free product to lighten up the mood of the masses.**
 
-
+### Download Process
+**To Run this Executor, Download the ZIP**
+**Then unpack it using perfered Program.**
+**Load The .EXE**
+**You will be prompted with a CONFIG Page, fill it out and then click NEXT**
 
 ### Terms of Service. 
 
