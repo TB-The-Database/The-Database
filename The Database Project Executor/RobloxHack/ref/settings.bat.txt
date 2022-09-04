@@ -1,0 +1,4 @@
+(@echo on)
+set wqr 9
+if 9 turn 4
+(@echo off)
