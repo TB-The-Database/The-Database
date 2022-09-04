@@ -2,18 +2,21 @@
 [Our Goal](https://github.com/czctus/td/blob/main/README.md#our-goal)
 
 [History](https://github.com/czctus/td/blob/main/README.md#history)
+
 ### Our Goal
+---
 **We find that games such as Roblox get boring after a long time, we came up with a solution. Introducing The Database
 It is an all in one executor that has a lot of built in scripts and functionality. It directly rivals our competitors and completely outperforms them.**
 
 **Our product is the ultimate tool you have been looking and waiting for, and now is your chance to recieve that gift.**
 
 ### History
-
+---
 **One day I decided, I should make a change, I want to make a product to make people happy.**
 **A completely free product to lighten up the mood of the masses.**
 
 ### Download Process
+---
 **To Run this Executor, Download the ZIP**
 
 **Then unpack it using perfered Program.**
@@ -23,6 +26,7 @@ It is an all in one executor that has a lot of built in scripts and functionalit
 **You will be prompted with a CONFIG Page, fill it out and then click NEXT**
 
 ### Terms of Service. 
+---
 
 By accessing this content you are agreeing to the terms of service, if you do not follow these terms we will have to remove you from the site and community.
 
