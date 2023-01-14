@@ -1,0 +1,9 @@
+--EXAMPLE SCRIPT
+
+function exampleScript(text) --Creates The Function called 'exampleScript'
+    print(text) --Prints the 'Text' Variable
+end --Closes the Function
+
+exampleScript("This is an Example Script.") --Runs the Function with a String.
+
+--To add more scripts, simply put the script in this folder [DB-Injector/scripts].
